@@ -1,0 +1,4 @@
+#Tue Oct 15 19:09:49 WIB 2019
+base.0=/Users/iqbalhood/Documents/belajar_list/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
